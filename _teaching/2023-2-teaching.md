@@ -2,7 +2,6 @@
 title: "AI-mpower program"
 collection: teaching
 type: "Workshop"
-permalink: /teaching/2023-mpower
 venue: "IISc Bangalore"
 date: 2023-08-20
 location: "Bangalore, India"
