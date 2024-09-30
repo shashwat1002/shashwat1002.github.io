@@ -21,11 +21,11 @@ repository               : "shashwat1002/shashwat1002.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "image.png"
   name             : "Shashwat Singh"
   pronouns         : # example: "she/her"  
   bio              : "AI Researcher"
-  location         : "Earth"
+  location         : "Hyderabad, India"
   employer         : "IIIT Hyderabad"
   uri              : # URL
   email            : "shashwat.s@research.iiit.ac.in" 
