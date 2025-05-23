@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an AI research student, currently pursuing an Undergrad + MS by Research program at IIIT Hyderabad under my advisor Dr. Ponnurangam Kumaraguru. I am interested in the science of Deep Learning, AI interpretability, and pretraining. 
+I am an AI research student, about to join a PhD program at the [CDS](https://cds.nyu.edu/) at [NYU](https://www.nyu.edu/) to work with [Dr. He He](https://hhexiy.github.io/) and [Dr. Tal Linzen](https://tallinzen.net/). I am currently tying up my Undergrad + MS by Research program at IIIT Hyderabad under my advisor Dr. Ponnurangam Kumaraguru. I am interested in the science of Deep Learning, AI interpretability, and pretraining. 
 
 Some specific ideas I find interesting are:
 
